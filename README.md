@@ -4,7 +4,7 @@ This is a simple **Task Manager** that I built to experiment with some very inte
 
 It gives the possibility to add and delete tasks an create a **to-do list**.
 
-## Built with
+## Built with :hammer_and_wrench:
 
 * [Node.js](https://nodejs.org/en/docs)
 * [MongoDB](https://www.mongodb.com/docs/)
